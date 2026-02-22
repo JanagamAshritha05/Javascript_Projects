@@ -1,0 +1,16 @@
+.heading {
+    font-family: "Roboto";
+    text-align: center;
+  }
+  
+  .cart-items-heading {
+    font-size: 20px;
+  }
+  
+  .cart-items-container {
+    text-align: center;
+    list-style-type: none;
+  }
+  
+
+  
