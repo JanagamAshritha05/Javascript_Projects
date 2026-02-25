@@ -17,7 +17,6 @@ function restartGame(){
     userInputEl.value="";
 
 }
-
 restartGame();
 
 function checkResult(){
