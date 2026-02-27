@@ -43,7 +43,7 @@ input {
     outline: none;
     background: transparent;
     padding: 10px;
-    font-size: 14px;   /* ✅ fixed font-size */
+    font-size: 14px;   
 }
 button {
     border: none;
@@ -69,7 +69,7 @@ ul li::before {
     height: 28px;
     width: 28px;
     border-radius: 50%;
-    background-image: url("https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1920"); /* ✅ fixed */
+    background-image: url("https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1920"); 
     background-size: cover;
     background-position: center;
     top: 12px;
@@ -80,7 +80,7 @@ ul li.checked {
     text-decoration: line-through;
 }
 ul li.checked::before {
-    background-image: url("https://cdn-icons-png.flaticon.com/512/190/190411.png"); /* ✅ fixed */
+    background-image: url("https://cdn-icons-png.flaticon.com/512/190/190411.png"); 
 }
 ul li span {
     position: absolute;
